@@ -20,10 +20,6 @@ In this project, I have created an application called Note taker, that can be us
 
 The Note Taker app allows the user to be able to write and save notes, so they can organize their thoughts and keep a track of tasks they need to complete.
 
-I have used HTML, Javascript and CSS to create this weather dashboard to allow the user to search a city in the search bar, display the current days weather and also the weather for the next 5 days.
-
-The cities the user searches is also saved within local storage and displayed on the search bar so the user can click onto their previously searched cities.
-
 ## What did we do?
 
 In this application I have included the following elements:
@@ -95,7 +91,7 @@ npm run dev
 
 ![The note taker demo example given](./public/assets/img/11-express-homework-demo-01.png)
 
-### Screenshot showing nNote taker app created
+### Screenshot showing Note taker app created
 
 #### Notes created
 
