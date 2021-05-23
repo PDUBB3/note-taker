@@ -1,13 +1,3 @@
-const express = require("express");
-const cors = require("cors");
-
-const htmlRoutes = require("./routes/htmlRoutes");
-const apiRoutes = require("./routes/apiRoutes");
-
-const PORT = 3000;
-
-const app = express();
-
 let noteTitle;
 let noteText;
 let saveNoteBtn;
